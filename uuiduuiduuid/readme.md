@@ -1,6 +1,6 @@
 # uuiduuiduuid
 
-Jungle Explorer https://jungle.eosx.io/account/uuiduuiduuid
+Jungle Explorer https://jungle.eosx.io/account/uuiduuiduuid?mode=contract&sub=tables
 
 `cleos push action structstruct add '{"account": "structstruct"}'`   
 

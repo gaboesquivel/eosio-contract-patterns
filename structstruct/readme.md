@@ -1,10 +1,10 @@
 # structstruct
 
-Jungle Explorer https://jungle.bloks.io/account/uuiduuiduuid
+Jungle Explorer https://jungle.eosx.io/account/structstruct?mode=contract&sub=tables
 
-`cleos push action uuiduuiduuid add '{"uuid": "9fe8fb46-c345-4dd5-ae93-726073e35fb9"}'`   
+`cleos push action structstruct add '{"id":0, "account": "structstruct"}'`   
 
-`cleos_jungle2 get table uuiduuiduuid uuiduuiduuid entries --index 3 --key-type sha256 --lower 6ea6ccba577d1c8f4a30701c1404dbd1dab043cb643817dfd989bb8a469f4616`
+`get table structstruct structstruct entries`
 
 ## dependencies
 
