@@ -1,4 +1,4 @@
 # EOS Smartt Contract Patterns
 
-A C0llection of EOSIO smart contracts patterns.
+A Collection of EOSIO smart contracts patterns.
 
